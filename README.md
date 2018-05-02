@@ -43,5 +43,5 @@ Video:
 https://www.screencast.com/t/1wcjNP24ljj
 
 Final Paper
-
+https://github.com/CSCI-4502-Group22/Adverse-Drugs/blob/master/Group22_AdverseEventReporting_part4.pdf
 
